@@ -1,0 +1,5 @@
+Pelease run cnn.py with tensorflow enviroment
+
+python version  3.6
+pip intsall tensorflow
+python cnn.py
